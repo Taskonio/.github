@@ -13,7 +13,7 @@
 
 Welcome to the Taskonio Github organisation!
 
-You can try it for free or subscribe for a full plan at https://taskonio.com.
+You can try it for free or subscribe for a full plan at https://www.taskonio.com.
 
 If you are interested in working with us, ping us at helloworld[at]taskonio.com.
 
